@@ -1,0 +1,1 @@
+Use `browsermcp` to verify every change you made. The app should be running in `localhost:3000`.
